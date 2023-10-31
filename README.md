@@ -18,3 +18,10 @@ This project is distributed into several modules :
 ![Consul](https://img.shields.io/badge/Consul-F24C53.svg?style=for-the-badge&logo=Consul&logoColor=white)
 ![Vault](https://img.shields.io/badge/Vault-FFEC6E.svg?style=for-the-badge&logo=Vault&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)   
+
+## Screenshots
+
+<img src="Captures/00.png">
+<img src="Captures/01.png">
+<img src="Captures/02.png">
+<img src="Captures/03.png">
