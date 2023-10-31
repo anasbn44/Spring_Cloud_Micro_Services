@@ -1,7 +1,7 @@
 # Spring_Cloud_Micro_Services
 
 ## About
-This repository resumes a small application of a micro service achitecture using Spring Boot. In this application, we will use newer technologies such as new technology like ConsulDiscovery ,Vault and also using dynamic methods to load parameters by the microservices, etc.
+This repository resumes a small application of a micro service achitecture using Spring Boot. In this application, we will use newer technologies such as new technology e.g. ConsulDiscovery ,Vault and also using dynamic methods to load parameters by the microservices, etc.
 
 This project is distributed into several modules : 
  * **Config-service:** Responsible for managing configuration properties for all services.
