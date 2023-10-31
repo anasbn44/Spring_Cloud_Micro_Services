@@ -17,7 +17,8 @@ This project is distributed into several modules :
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=Spring-Boot&logoColor=white)
 ![Consul](https://img.shields.io/badge/Consul-F24C53.svg?style=for-the-badge&logo=Consul&logoColor=white)
 ![Vault](https://img.shields.io/badge/Vault-FFEC6E.svg?style=for-the-badge&logo=Vault&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)   
+![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white) 
+![Angular](https://camo.githubusercontent.com/a799a0de9a064f1d6b1f455c88aaa6a835b374050e47e85fd378ae1e928af62f/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d416e67756c617226636f6c6f723d444430303331266c6f676f3d416e67756c6172266c6f676f436f6c6f723d464646464646266c6162656c3d)
 
 ## Screenshots
 
